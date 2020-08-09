@@ -1,0 +1,42 @@
+body{
+	background-color: #303030;
+}
+
+h1{
+	color: #fff;
+	text-align: center;
+	font-family: serif;
+}
+
+p{
+	font-size: 22px;
+}
+
+label{
+	padding: 10px;
+	font-size: 18px;
+}
+
+fieldset{
+	border-radius: 15px;
+}
+
+.big-div{
+	background-color: #fff;
+}
+
+.sm-div{
+	border: 1px solid #303030;
+	border-radius: 5px;
+	width: 100%;
+	height: 40px;
+	margin-top: 10px;
+	background-color: #EBFCBC;
+}
+
+button{
+	width: 140px;
+	height: 40px;
+	font-size: 20px;
+	margin-left: 45%;
+}
